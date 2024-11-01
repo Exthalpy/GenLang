@@ -2,7 +2,7 @@
 Self-Decoding Compression Architecture
 
 # GenLang: Self-Decoding Compression Architecture
-![GenLang Architecture](docs/images/architecture_diagram.png)
+
 
 ## Overview
 GenLang offers a novel approach to managing token constraints in large language models (LLMs) through self-decoding compression. By embedding decoding instructions within compressed text, GenLang reduces token usage by approximately 50%, enabling richer interactions with lower API costs.
